@@ -1,0 +1,4 @@
+theme = "tale-hugo"
+baseURL = "https://material.opensciencewuerzburg.netlify.com/"
+languageCode = "en-us"
+title = "Open Science Club Würzburg"

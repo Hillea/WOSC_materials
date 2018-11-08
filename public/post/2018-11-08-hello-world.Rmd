@@ -1,0 +1,10 @@
+---
+title: Hello World
+author: Lea
+date: '2018-11-08'
+slug: hello-world
+categories: []
+tags: []
+---
+
+# Hier werden wir in Zukunft Folien und anderes Material teilen.
